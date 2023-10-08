@@ -1,0 +1,23 @@
+body {
+    background-color:#F0F3F4;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   }
+   hr{
+    border-style: dotted none none;
+    width:5%;
+    border-width:5px;
+    border-color:cornflowerblue;
+   }
+   h1{
+    color:#566573;
+   }
+   h3{
+    color:#5D6D7E;
+   }
+   .girl {
+    height:100%;
+   }
+   img{
+    width:200px;
+    clip-path:circle();
+    }
